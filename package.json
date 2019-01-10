@@ -1,0 +1,15 @@
+{
+  "name": "sudoku_solvers",
+  "version": "0.0.1",
+  "main": "sample_puzzles.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Hemant Kumar",
+  "license": "ISC"
+}
